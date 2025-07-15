@@ -1,1 +1,2 @@
 # spam-ham-detector
+This project is a machine learning-based email classifier designed to distinguish between spam and ham emails using the Naive Bayes algorithm. It leverages Natural Language Processing (NLP) techniques like tokenization, stopword removal, and TF-IDF vectorization for feature extraction. The project also includes a professional GUI built with PyQt5, allowing users to input email text and receive instant classification results in a visually appealing and interactive interfacs
